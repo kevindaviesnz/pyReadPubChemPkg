@@ -5,6 +5,14 @@
 # To package:
 # python3 -m pip install --upgrade build
 # python3 -m build
+# https://test.pypi.org/account/register/
+# https://test.pypi.org/manage/account/#api-tokens
+# python3 -m pip install --upgrade twine
+# python3 -m twine upload --repository testpypi dist/*
+# https://test.pypi.org/project/pubchem-molecules-reader/0.0.1/
+
+# To install:
+# python3 -m pip install --index-url https://test.pypi.org/simple/ --no-deps pubchem_molecules_reader
 
 import requests
 from settings import SettingsProvider
