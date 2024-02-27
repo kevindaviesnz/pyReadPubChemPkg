@@ -1,7 +1,7 @@
 Metadata-Version: 2.1
-Name: example_package_kevin
+Name: pubchem_molecules_reader
 Version: 0.0.1
-Summary: A small example package
+Summary: Read molecules from PubChem.
 Author-email: Kevin Davies <kdaviesnz@gmail.com>
 Project-URL: Homepage, https://github.com/kevindaviesnz/pyReadPubChemPkg
 Classifier: Programming Language :: Python :: 3

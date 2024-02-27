@@ -1,10 +1,10 @@
 [project]
-name = "example_package_kevin"
+name = "pubchem_molecules_reader"
 version = "0.0.1"
 authors = [
   { name="Kevin Davies", email="kdaviesnz@gmail.com" },
 ]
-description = "A small example package"
+description = "Read molecules from PubChem."
 readme = "README.md"
 requires-python = ">=3.11"
 classifiers = [
