@@ -1,6 +1,6 @@
 [project]
 name = "pubchem_chemical_reader"
-version = "0.0.1"
+version = "0.0.3"
 authors = [
   { name="Kevin Davies", email="kdaviesnz@gmail.com" },
 ]

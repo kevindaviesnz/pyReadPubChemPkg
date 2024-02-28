@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: pubchem_chemical_reader
-Version: 0.0.1
+Version: 0.0.3
 Summary: Package to fetch chemical information from PubChem.
 Author-email: Kevin Davies <kdaviesnz@gmail.com>
 Project-URL: Homepage, https://github.com/kevindaviesnz/pyReadPubChemPkg

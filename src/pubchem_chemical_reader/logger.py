@@ -1,6 +1,6 @@
 import logging
 import sys
-from settings import SettingsProvider
+from pubchem_chemical_reader.settings import SettingsProvider
 
 file_handler = logging.FileHandler(filename="tmp.log")
 stdout_handler = logging.StreamHandler(stream=sys.stdout)
