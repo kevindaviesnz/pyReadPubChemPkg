@@ -12,7 +12,7 @@
 # https://test.pypi.org/project/pubchem-chemical-reader/0.0.1/
 
 # To install:
-# python3 -m pip install --index-url https://test.pypi.org/simple/ --no-deps pubchem_molecules_reader
+# python3 -m pip install --index-url https://test.pypi.org/simple/ --no-deps pubchem_chemical_reader
 
 import requests
 import sys
