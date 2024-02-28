@@ -1,10 +1,10 @@
 [project]
-name = "pyReadPubChemPkg"
+name = "pubchem_chemical_reader"
 version = "0.0.1"
 authors = [
   { name="Kevin Davies", email="kdaviesnz@gmail.com" },
 ]
-description = "A small example package"
+description = "Package to fetch chemical information from PubChem."
 readme = "README.md"
 requires-python = ">=3.11"
 classifiers = [

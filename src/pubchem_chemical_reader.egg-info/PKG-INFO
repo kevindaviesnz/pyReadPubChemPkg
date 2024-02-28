@@ -1,7 +1,7 @@
 Metadata-Version: 2.1
-Name: pubchem_molecules_reader
+Name: pubchem_chemical_reader
 Version: 0.0.1
-Summary: Read molecules from PubChem.
+Summary: Package to fetch chemical information from PubChem.
 Author-email: Kevin Davies <kdaviesnz@gmail.com>
 Project-URL: Homepage, https://github.com/kevindaviesnz/pyReadPubChemPkg
 Classifier: Programming Language :: Python :: 3
@@ -11,4 +11,8 @@ Requires-Python: >=3.11
 Description-Content-Type: text/markdown
 License-File: LICENSE
 
-# pyReadPubChemPkg
+# Example Package
+
+This is a simple example package. You can use
+[GitHub-flavored Markdown](https://guides.github.com/features/mastering-markdown/)
+to write your content.
