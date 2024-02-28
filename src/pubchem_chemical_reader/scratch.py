@@ -1,3 +1,0 @@
-from settings import SettingsProvider
-print(SettingsProvider.LOG_LEVEL)
-print(SettingsProvider.PUBCHEM_PROPERTIES)
